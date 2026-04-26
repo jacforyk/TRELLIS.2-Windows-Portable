@@ -53,6 +53,8 @@ II. Texture Generation Function
 
 This process is similar to Image-to-3D. Simply upload your untextured Mesh File and a reference image to generate high-quality textures mapped to your geometry.
 
+Video Tutorials:https://www.youtube.com/watch?v=Ig6L0b5u81c
+
 ## System Requirements & Notes
 
 Note: The TRELLIS.2-4B model files will be downloaded automatically during the first run. Please ensure you have at least 14.5GB of free disk space available.
